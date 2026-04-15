@@ -1,4 +1,5 @@
 apiVersion: v2
 name: nginx
-version: 0.0.2 # chart version
-appVersion: 1.29.8 # this is application version
+version: 0.0.3 # chart version
+appVersion: 1.29-trixie # this is application version
+description: "Upgrading to 1.29-trixie"
